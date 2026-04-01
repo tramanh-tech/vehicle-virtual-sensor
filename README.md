@@ -14,6 +14,16 @@ Instead of installing expensive physical sensors, this approach leverages **data
 
 ---
 
+## 🚀 Demo
+Run the Streamlit app locally: https://vehicle-virtual-sensor.streamlit.app/
+
+
+👉 Demo will allow users to:
+- Input vehicle signals  
+- Predict slope and mass in real-time  
+
+---
+
 ## 🚀 Features
 - 📊 Exploratory Data Analysis (EDA)  
 - 🧠 Feature Engineering based on domain understanding  
@@ -81,16 +91,6 @@ Instead of installing expensive physical sensors, this approach leverages **data
 | Classification | ~0.998 |
 | Regression | ~0.79 |
 | Overall | **0.865** |
-
----
-
-## 🚀 Demo
-Run the Streamlit app locally:
-
-
-👉 Demo will allow users to:
-- Input vehicle signals  
-- Predict slope and mass in real-time  
 
 ---
 
